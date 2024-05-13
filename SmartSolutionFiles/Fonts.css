@@ -1,0 +1,20 @@
+
+
+
+@font-face {
+    font-family: arabicFont;
+    src: url('../fonts/Almarai-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: englishFont;
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+.arabicFontStyle {
+    font-family: 'arabicFont', sans-serif;
+}
+
+.englishFontStyle {
+    font-family: 'englishFont', sans-serif;
+}

@@ -1,0 +1,11 @@
+.mud-table-sticky-header * .mud-table-root .mud-table-head * .mud-table-cell {
+    font-weight: bold;
+    text-align: center;
+}
+.mud-table-root .mud-table-body .mud-table-row .mud-table-cell {
+    text-align: center;
+}
+.me-auto {
+    margin: 0 !important;
+    margin-inline-end: auto !important;
+}
